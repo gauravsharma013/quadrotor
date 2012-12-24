@@ -1,4 +1,4 @@
-// connect ch1-4 to digital 2-5
+// connect ch 1-4 to digital 2-5
 
 void setup()
 {
